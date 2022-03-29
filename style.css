@@ -1,0 +1,54 @@
+#title{
+    font-size: 85px;
+    font-weight: bold;
+    color: rgb(43, 71, 122);
+    background-color: rgb(238, 168, 191);
+    font-style: italic;
+    font-family: Verdana;
+    text-align: center;
+}
+
+h2{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 50px;
+  color: beige;
+  background-color: rgb(43, 71, 122) ;
+  text-align: center;
+}
+
+p {
+    font-family:'Lucida Grande';
+    color: rgb(83, 51, 51);
+    background-color: rgb(168, 207, 207);
+    font-style: italic;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-size: 30px;
+    text-align: center;
+}
+
+table{
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+th{
+    font-size: 30px;
+    font-family: 'Arial Narrow';
+    color: rgb(43, 71, 122);
+    background-color: rgba(132, 185, 132, 0.685);
+    
+    
+}
+
+td{
+    font-family: 'Lucida Grande';
+    font-size: 20px;
+    color: rgb(30, 30, 90);
+    background-color: rgb(164, 160, 204);
+}
+
+body{
+    background-color: Darkgray;
+}
